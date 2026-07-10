@@ -1,0 +1,3 @@
+# Local tooling / session data (not part of the website)
+.claude/
+.remember/
